@@ -2,13 +2,10 @@
 
 Semantic versioning and extensible constraint solving.
 
-<!-- ENABLE WHEN PUBLISHED
 [![On pub.dev][pub_img]][pub_url]
 [![Code coverage][cov_img]][cov_url]
 [![Github action status][gha_img]][gha_url]
 [![Dartdocs][doc_img]][doc_url]
--->
-
 [![Style guide][sty_img]][sty_url]
 
 [pub_url]: https://pub.dartlang.org/packages/neosemver
